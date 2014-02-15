@@ -1,4 +1,4 @@
-# revision 30372
+# revision 32952
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,8 +6,8 @@
 # catalog-version undef
 Name:		texlive-collection-langenglish
 Epoch:		1
-Version:	20131013
-Release:	5
+Version:	20140215
+Release:	1
 Summary:	US and UK English
 Group:		Publishing
 URL:		http://tug.org/texlive
@@ -26,6 +26,7 @@ Requires:	texlive-around-the-bend
 Requires:	texlive-ascii-chart
 Requires:	texlive-components-of-TeX
 Requires:	texlive-comprehensive
+Requires:	texlive-dickimaw
 Requires:	texlive-dtxtut
 Requires:	texlive-first-latex-doc
 Requires:	texlive-gentle
@@ -48,7 +49,6 @@ Requires:	texlive-latexfileinfo-pkgs
 Requires:	texlive-lshort-english
 Requires:	texlive-macros2e
 Requires:	texlive-math-e
-Requires:	texlive-mathmode
 Requires:	texlive-memdesign
 Requires:	texlive-metafont-beginners
 Requires:	texlive-metapost-examples
@@ -70,11 +70,12 @@ Requires:	texlive-texbytopic
 Requires:	texlive-titlepages
 Requires:	texlive-tlc2
 Requires:	texlive-visualfaq
+Requires:	texlive-voss-mathmode
 Requires:	texlive-webguide
 Requires:	texlive-xetexref
 
 %description
-Support for US and UK English.
+Support for (and documentation in) English.
 
 #-----------------------------------------------------------------------
 %files
