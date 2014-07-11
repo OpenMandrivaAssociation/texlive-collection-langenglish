@@ -7,7 +7,7 @@
 Name:		texlive-collection-langenglish
 Epoch:		1
 Version:	20140215
-Release:	2
+Release:	3
 Summary:	US and UK English
 Group:		Publishing
 URL:		http://tug.org/texlive
