@@ -6,8 +6,8 @@
 # catalog-version undef
 Name:		texlive-collection-langenglish
 Epoch:		1
-Version:	20140215
-Release:	5
+Version:	20171224
+Release:	1
 Summary:	US and UK English
 Group:		Publishing
 URL:		http://tug.org/texlive
