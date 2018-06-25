@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-langenglish
 Epoch:		1
-Version:	20171224
+Version:	20180303
 Release:	1
 Summary:	US and UK English
 Group:		Publishing
