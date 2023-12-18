@@ -1,6 +1,6 @@
 Name:		texlive-collection-langenglish
 Epoch:		1
-Version:	66846
+Version:	68790
 Release:	1
 Summary:	US and UK English
 Group:		Publishing
